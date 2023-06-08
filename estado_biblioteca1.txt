@@ -1,0 +1,25 @@
+En esta ejecucion he utilizado devolver libro para comprobar si funcionaba y dar baja usuario
+
+
+LIBROS
+Título: La Isla del Tesoro
+Autores: Robert Louis Stevenson, 
+Identificador: LIT001
+Categoría: Aventuras
+Edad recomendada: 10
+Prestado: false
+
+Título: 1984
+Autores: George Orwell, 
+Identificador: LIT002
+Categoría: Ciencia Ficción
+Edad recomendada: 14
+Prestado: false
+
+USUARIOS
+Nombre: Juan
+Apellidos: Pérez
+Fecha de nacimiento: 2005-05-15
+DNI: 12345678A
+Edad: 18
+
